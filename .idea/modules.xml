@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic expressions/Arithmetic expressions.iml" filepath="$PROJECT_DIR$/Arithmetic expressions/Arithmetic expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constants/Constants.iml" filepath="$PROJECT_DIR$/Constants/Constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escape sequences/Escape sequences.iml" filepath="$PROJECT_DIR$/Escape sequences/Escape sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formatting numbers/Formatting numbers.iml" filepath="$PROJECT_DIR$/Formatting numbers/Formatting numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learning projects.iml" filepath="$PROJECT_DIR$/.idea/Learning projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math class/Math class.iml" filepath="$PROJECT_DIR$/Math class/Math class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive and reference types/Primitive and reference types.iml" filepath="$PROJECT_DIR$/Primitive and reference types/Primitive and reference types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive types/Primitive types.iml" filepath="$PROJECT_DIR$/Primitive types/Primitive types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reading input/Reading input.iml" filepath="$PROJECT_DIR$/Reading input/Reading input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reference types/Reference types.iml" filepath="$PROJECT_DIR$/Reference types/Reference types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>
